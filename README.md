@@ -57,4 +57,4 @@ This repository contains maps developed in QGIS for cartographic representation 
 # Outputs
 - Hypsometric Map of Brazil
 - Hypsometric Map of Southeastern Region
-- Land Use and Cover Map of Amazonas
+- Map for Land Use, Land Cover and Burned Area in the brazilian state of Amazonas
