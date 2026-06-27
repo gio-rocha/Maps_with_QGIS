@@ -38,9 +38,23 @@ This repository contains maps developed in QGIS for cartographic representation 
     - Source: IBGE – Instituto Brasileiro de Geografia e Estatística  
     - Description: Official regional division of Brazil into five major regions (North, Northeast, Central-West, Southeast, and South)
     - 🔗 [Download Data](https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/BR_Regioes_2025.zip)
+    
+
+- *Land Use and Land Cover (Brazil)*
+    - Source: MapBiomas (Collection 10)
+    - Description: GeoTIFF for land use and land cover across the entire country in 2024
+    - 🔗 [Download Data](https://storage.googleapis.com/mapbiomas-public/initiatives/brasil/collection_10/lulc/coverage/brazil_coverage_2024.tif)
+    
+ 
+- *Burned Area (Brazil)*
+    - Source: MapBiomas Fogo (Collection 5)
+    - Description: GeoTIFF for areas burned in 2024 throughout the country
+    - 🔗 [Download Data](https://storage.googleapis.com/mapbiomas-public/initiatives/brasil/collection_10/fire-col5/mapbiomas_fire_collection5_annual_burned_v1/burned_area_2024.tif)
+    
 
 
 
 # Outputs
 - Hypsometric Map of Brazil
 - Hypsometric Map of Southeastern Region
+- Land Use and Cover Map of Amazonas
